@@ -1,0 +1,18 @@
+[
+	{
+		"prompt" : ["proper noun", "present tense verb", "place", "past tense verb"],
+		"story" : "%s was %s on the %s and %s"
+	},
+	{
+		"prompt" : ["proper noun", "present tense verb", "noun", "place"],
+		"story" : "I saw %s %s the %s in the %s"
+	},
+	{
+		"prompt" : ["proper noun", "adjective", "proper noun", "present tense verb", "event or time"],
+		"story" : "You know that %s is %s when %s is %s during %s"
+	},
+	{
+		"prompt" : ["proper noun", "noun", "present tense verb"],
+		"story" : "%s hates %s and likes to show it by %s it"
+	}
+]

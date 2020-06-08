@@ -1,0 +1,6 @@
+D:\Tyler.Dean.Osborne\Projects\Godot\Udemy\Loony Lips\.mono\temp\bin\Tools\Loony Lips.dll
+D:\Tyler.Dean.Osborne\Projects\Godot\Udemy\Loony Lips\.mono\temp\bin\Tools\Loony Lips.pdb
+D:\Tyler.Dean.Osborne\Projects\Godot\Udemy\Loony Lips\.mono\temp\obj\Tools\Loony Lips.csprojAssemblyReference.cache
+D:\Tyler.Dean.Osborne\Projects\Godot\Udemy\Loony Lips\.mono\temp\obj\Tools\Loony Lips.csproj.CoreCompileInputs.cache
+D:\Tyler.Dean.Osborne\Projects\Godot\Udemy\Loony Lips\.mono\temp\obj\Tools\Loony Lips.dll
+D:\Tyler.Dean.Osborne\Projects\Godot\Udemy\Loony Lips\.mono\temp\obj\Tools\Loony Lips.pdb
